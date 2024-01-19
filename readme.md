@@ -1,7 +1,6 @@
 Setup:
 npm run dev
 
-routes:
 Rotas:
 
 - `POST - /tasks`
